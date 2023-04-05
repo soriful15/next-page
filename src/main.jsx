@@ -13,6 +13,7 @@ import About from './Components/About/About';
 
 import Books from './Components/Books/Books';
 import BookDetail from './Components/BookDetail/BookDetail';
+import Error from './Components/Errorpage/Error';
 
 
 const router = createBrowserRouter([
